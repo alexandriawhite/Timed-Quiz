@@ -45,7 +45,7 @@ THEN I can save my initials and my score
 
 # Links
 * URL of GitHub Repository: https://github.com/alexandriawhite/Timed-Quiz
-* URL of deployed application: 
+* URL of deployed application: https://alexandriawhite.github.io/Timed-Quiz/
 
 # 📝 Notes
 * 
