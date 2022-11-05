@@ -1,0 +1,49 @@
+/*starting with no padding*/
+* {
+    margin: 0;
+    padding: 0;
+}
+
+/*aligning timer on right of the screen with small amount of margin and padding so its not jammed in the corner. Also removed bullet point */
+header {
+    list-style: none;
+    text-align:right;
+    margin: 2px;
+    padding: 2px;
+}
+
+/*Adding font, background color white, and aliginging center*/
+body {
+  font-family: Verdana, Arial, Helvetica, sans-serif;
+  background-color: #fff;
+  text-align: center;
+}
+
+/*Formatting for coding quiz challenge*/
+h2 {
+  font-size:50px;
+  font-weight: bold;
+  margin-top: 100px;
+  margin-bottom: 20px;
+
+}
+
+p {
+    display:flex;
+    flex-direction: column;
+    margin-right: 35%;
+    margin-left:35%;
+    margin-bottom:1.5%;
+}
+
+button {
+  background-color: rgb(141, 9, 168);
+  color: #fff;
+  cursor: pointer;
+  border-radius: 8px;
+  height: 100%;
+  width: 5%;
+  font-size: 100%;
+  margin:1px;
+  padding: 3px 5px;
+}
